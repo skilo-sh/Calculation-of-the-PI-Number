@@ -1,4 +1,4 @@
-# Calculate-PI-Number
+# Calculate PI Number
 
 ## Explication mathématique 
 
