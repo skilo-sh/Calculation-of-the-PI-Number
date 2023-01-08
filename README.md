@@ -21,4 +21,5 @@ On se rends compte que la probabilité d'avoir un points dans le cerle est de $\
 Il suffit alors de génerer un grand nombre de points et de regarder si ils sont dans le cercle.<br>
 On divisera ensuite le nombre de points dans le cercle par le nombre de points total, puis on multipliera par 4 ce nombre.
 
-Après avoir généré 150'000'000 points j'ai trouvé, PI = 
+Après avoir généré 150'000'000 points j'ai trouvé, PI = 3.14053.<br>
+C'est pas terrible mais ça s'approche de PI.
